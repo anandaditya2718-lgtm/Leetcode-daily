@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
