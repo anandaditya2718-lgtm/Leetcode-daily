@@ -22,4 +22,13 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0009-palindrome-number) |
+| [0342-power-of-four](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
