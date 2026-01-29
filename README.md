@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0015-3sum) |
+| [1550-three-consecutive-odds](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/1550-three-consecutive-odds) |
 ## Two Pointers
 |  |
 | ------- |
