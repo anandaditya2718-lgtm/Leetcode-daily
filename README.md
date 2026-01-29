@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0015-3sum) |
 ## Two Pointers
 |  |
@@ -36,5 +37,10 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0709-to-lower-case](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0709-to-lower-case) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
