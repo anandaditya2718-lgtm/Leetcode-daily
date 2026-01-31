@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0342-power-of-four) |
@@ -33,6 +34,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0342-power-of-four) |
 ## String
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anandaditya2718-lgtm/Leetcode-daily/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
